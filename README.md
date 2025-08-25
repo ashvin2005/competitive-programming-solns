@@ -7,45 +7,52 @@ This repository contains a collection of well-structured solutions to various co
 - `codeforces/` - Solutions to Codeforces problems
 - `leetcode/` - Solutions to LeetCode problems
 
-## Codeforces Solutions
+# Competitive Programming Solutions 🧠
 
-### A - Do Not Be Distracted
-- **Problem**: Check if a string represents a valid sequence where each character appears in consecutive blocks
-- **Difficulty**: Implementation
-- **File**: [A_Do_Not_Be_Distracted.py](codeforces/A_Do_Not_Be_Distracted.py)
+This repository contains a collection of well-structured solutions to various competitive programming problems, authored by **Ashvin Tiwari**. The problems span across multiple platforms and cover a wide range of topics including data structures, algorithms, mathematics, and more.
 
-## LeetCode Solutions
+## 📊 Statistics
 
-### 1. Two Sum
-- **Problem**: Find two numbers in array that add up to target
-- **Difficulty**: Easy
-- **Topics**: Array, Hash Table
-- **Time Complexity**: O(n)
-- **Space Complexity**: O(n)
-- **File**: [1_Two_Sum.py](leetcode/1_Two_Sum.py)
+- **Total Problems Solved**: 3
+- **Codeforces**: 1 problem
+- **LeetCode**: 2 problems
+- **Current Streak**: 🔥 Day 1
 
-### 35. Search Insert Position
-- **Problem**: Find the index where target should be inserted in sorted array
-- **Difficulty**: Easy
-- **Topics**: Array, Binary Search
-- **Time Complexity**: O(log n)
-- **Space Complexity**: O(1)
-- **File**: [35_Search_Insert_Position.py](leetcode/35_Search_Insert_Position.py)
+## 📁 Structure
 
-## How to Use
+- `codeforces/` - Solutions to Codeforces problems
+- `leetcode/` - Solutions to LeetCode problems
+
+## 🚀 Recent Solutions
+
+### Latest Codeforces
+- **A - Do Not Be Distracted** (Implementation)
+
+### Latest LeetCode  
+- **35. Search Insert Position** (Easy - Binary Search)
+- **1. Two Sum** (Easy - Hash Table)
+
+## 💻 How to Use
 
 Each solution is a standalone Python file that can be run directly:
 
-**Codeforces Solutions:**
 ```bash
-python3 codeforces/A_Do_Not_Be_Distracted.py
+# Run any solution
+python3 codeforces/[problem_name].py
+python3 leetcode/[problem_name].py
 ```
 
-**LeetCode Solutions:**
-```bash
-python3 leetcode/1_Two_Sum.py
-python3 leetcode/35_Search_Insert_Position.py
-```
+## 🎯 Daily Goals
+
+- ✅ Solve at least 1 problem daily
+- ✅ Maintain GitHub commit streak
+- ✅ Document learning progress
+
+## 📈 Progress Tracking
+
+Visit the respective folders to see all solutions:
+- [Codeforces Solutions](./codeforces/)
+- [LeetCode Solutions](./leetcode/)
 
 ## Contributing
 
