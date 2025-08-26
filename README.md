@@ -13,10 +13,10 @@ This repository contains a collection of well-structured solutions to various co
 
 ## 📊 Statistics
 
-- **Total Problems Solved**: 3
-- **Codeforces**: 1 problem
+- **Total Problems Solved**: 4
+- **Codeforces**: 2 problems
 - **LeetCode**: 2 problems
-- **Current Streak**: 🔥 Day 1
+- **Current Streak**: 🔥 Day 2
 
 ## 📁 Structure
 
@@ -26,6 +26,7 @@ This repository contains a collection of well-structured solutions to various co
 ## 🚀 Recent Solutions
 
 ### Latest Codeforces
+- **A - Is your horseshoe on the other hoof** (Implementation)
 - **A - Do Not Be Distracted** (Implementation)
 
 ### Latest LeetCode  
