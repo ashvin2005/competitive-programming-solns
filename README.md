@@ -2,20 +2,11 @@
 
 This repository contains a collection of well-structured solutions to various competitive programming problems, authored by **Ashvin Tiwari**. The problems span across multiple platforms and cover a wide range of topics including data structures, algorithms, mathematics, and more.
 
-## Structure
-
-- `codeforces/` - Solutions to Codeforces problems
-- `leetcode/` - Solutions to LeetCode problems
-
-# Competitive Programming Solutions 🧠
-
-This repository contains a collection of well-structured solutions to various competitive programming problems, authored by **Ashvin Tiwari**. The problems span across multiple platforms and cover a wide range of topics including data structures, algorithms, mathematics, and more.
-
 ## 📊 Statistics
 
-- **Total Problems Solved**: 4
+- **Total Problems Solved**: 5
 - **Codeforces**: 2 problems
-- **LeetCode**: 2 problems
+- **LeetCode**: 3 problems
 - **Current Streak**: 🔥 Day 2
 
 ## 📁 Structure
@@ -30,6 +21,7 @@ This repository contains a collection of well-structured solutions to various co
 - **A - Do Not Be Distracted** (Implementation)
 
 ### Latest LeetCode  
+- **9. Palindrome Number** (Easy - String Manipulation)
 - **35. Search Insert Position** (Easy - Binary Search)
 - **1. Two Sum** (Easy - Hash Table)
 
